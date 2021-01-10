@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "534683124491",
+    "firebase_url": "https://food-1bc7c.firebaseio.com",
+    "project_id": "food-1bc7c",
+    "storage_bucket": "food-1bc7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534683124491:android:d673932aa4417e8d36d80e",
+        "android_client_info": {
+          "package_name": "com.thengoding.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534683124491-0f9saack5ncprvni9vcrcjn7c2u1h969.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thengoding.food_app",
+            "certificate_hash": "37b7d76f32078ddc1fde8f21a34565d7189e9f7c"
+          }
+        },
+        {
+          "client_id": "534683124491-va11qmn5pv4p3fl6cr0r4k8fsq44un5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thengoding.food_app",
+            "certificate_hash": "768557b2a8a4e982b9d939ed6d10c0adc148a353"
+          }
+        },
+        {
+          "client_id": "534683124491-6ui8p4e8k84ghuosbnuirj72b3pc7sq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjhCPvfzuOjxp5k3rhWukiouoYrqvdHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534683124491-6ui8p4e8k84ghuosbnuirj72b3pc7sq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534683124491-d7cd9eh492bfkq1bfgfqbqrsmd935nc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thengoding.food"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534683124491:android:7fe0510a66e725f936d80e",
+        "android_client_info": {
+          "package_name": "com.yourprojectname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534683124491-6ui8p4e8k84ghuosbnuirj72b3pc7sq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjhCPvfzuOjxp5k3rhWukiouoYrqvdHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534683124491-6ui8p4e8k84ghuosbnuirj72b3pc7sq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534683124491-d7cd9eh492bfkq1bfgfqbqrsmd935nc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thengoding.food"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
